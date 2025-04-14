@@ -20,7 +20,7 @@ const Dashboard = () => {
   }
   return (
     <Layout>
-      <h1>Ws Iki engkok isi main contentne garek jupuk tekan mongo</h1>
+      <h1></h1>
     </Layout>
   );
 };

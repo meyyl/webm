@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Bell, Search } from "lucide-react";
 
-const Navbar = ({ userName = "Naufal Hafizh", userInitials = "NH" }) => {
+const Navbar = ({ userName = "Meisi", userInitials = "M" }) => {
   const [showDropdown, setShowDropdown] = useState(false);
 
   const toggleDropdown = () => {

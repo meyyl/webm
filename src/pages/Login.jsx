@@ -70,12 +70,12 @@ export default function AuthUI() {
 
           <div>
             <label className="mb-1 block text-sm font-medium text-gray-700">
-              Email
+              Username
             </label>
             <input
-              type="email"
+              type="username"
               className="w-full rounded-lg border border-gray-300 p-2 text-gray-900 focus:border-red-500 focus:outline-none focus:ring-1 focus:ring-red-500"
-              placeholder="Masukkan email anda"
+              placeholder="Masukkan username anda"
             />
           </div>
 
